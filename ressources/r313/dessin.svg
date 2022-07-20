@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="dessin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0152284"
+     inkscape:cx="419.11749"
+     inkscape:cy="398.92499"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008000;stroke-width:0.264583"
+       id="d1"
+       width="63.761688"
+       height="30.222303"
+       x="30.59087"
+       y="51.967617"
+       rx="10"
+       ry="10">
+      <title
+         id="title504">Pro</title>
+    </rect>
+    <rect
+       style="fill:#280b0b;stroke-width:0.264583"
+       id="d2"
+       width="63.761688"
+       height="88.86058"
+       x="133.60941"
+       y="49.521263"
+       rx="10"
+       ry="29.402321">
+      <title
+         id="title504-8">Pro</title>
+    </rect>
+    <rect
+       style="fill:#008000;stroke-width:0.264583"
+       id="d3"
+       width="63.761688"
+       height="30.222303"
+       x="30.038021"
+       y="105.4095"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;fill:#008000;stroke-width:0.264583"
+       x="54.547573"
+       y="98.406769"
+       id="d4"><tspan
+         id="tspan297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="54.547573"
+         y="98.406769"
+         sodipodi:role="line">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;fill:#008000;stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="115.75842"
+       y="96.509033"
+       id="text299-2"><tspan
+         sodipodi:role="line"
+         id="tspan486">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:31.3065;display:inline;fill:#008000;stroke-width:0.264583"
+       x="50.298615"
+       y="63.068726"
+       id="text508"><tspan
+         x="50.298615"
+         y="63.068726"
+         id="tspan881"><tspan
+           dx="0 4.2546959 3.0110154 4.2822566 4.3959446 3.0110149 1.9361458 4.2030182 2.7801952 4.2030182 3.6759186 2.4804726 3.2039413 4.3959427 4.2822571 4.4648476 4.4648438 4.203022 4.2030182 3.6759186"
+           style="fill:#ffffff"
+           id="tspan879">Propriétés (données)</tspan></tspan></text>
+    <rect
+       style="fill:#008000;stroke-width:0.264583"
+       id="d1-5"
+       width="46.30051"
+       height="30.222303"
+       x="141.94908"
+       y="59.164005"
+       rx="7.2614942"
+       ry="10">
+      <title
+         id="title504-83">Pro</title>
+    </rect>
+    <rect
+       style="fill:#008000;stroke-width:0.264583"
+       id="d1-5-0"
+       width="46.30051"
+       height="30.222303"
+       x="141.81877"
+       y="98.516808"
+       rx="7.2614942"
+       ry="10">
+      <title
+         id="title504-83-6">Pro</title>
+    </rect>
+  </g>
+</svg>
