@@ -6,10 +6,27 @@
 
 ---
 
-# Evaluation de la ressource W
+# Intervenants
+
+* David Annebicque (AB)
+  * David Annebicque (A)
+  * Fabrice Meuzeret (B)
+* Amine Haraoubia (EF)
+  * Patrice Gommery (E)
+  * Amine Haraoubia (F)
+
+---
+
+# Evaluation de la ressource WR313a / WR313e
 
 * 1 TP Noté
-* 1 évaluation écrite W
+* 1 évaluation écrite (décembre)
+
+---
+
+# Support
+
+Le support est disponible ici : https://cours.davidannebicque.fr/programmation-orientee-objet-en-php/
 
 ---
 
