@@ -5,7 +5,7 @@ En programmation informatique, un framework ou structure logicielle est un ensem
 * faiblement spécialisé, 
 * contrairement à certaines bibliothèques ;
 
----
+#-#-#
 
 # Définition générale
 
@@ -13,7 +13,7 @@ Un framework peut à ce titre être constitué de plusieurs bibliothèques c
 
 Le cadre de travail (traduction littérale de l’anglais : framework) qu’il impose de par sa construction même, guidant l’architecture logicielle voire conduisant le développeur à respecter certains patterns (modèle de conception) ; les bibliothèques le constituant sont alors organisées selon le même paradigme.
 
----
+#-#-#
 
 # Avantages
 
@@ -24,7 +24,7 @@ Le cadre de travail (traduction littérale de l’anglais : framework) qu’il 
 * Ne pas réinventer la roue
 * La gestion des formulaire, des utilisateurs, ...
 
----
+#-#-#
 
 # Inconvénients
 
@@ -33,7 +33,7 @@ Le cadre de travail (traduction littérale de l’anglais : framework) qu’il 
 * Généralement apprentissage d’un moteur de template
 * Apprentissage de l’utilisation du framework choisit : ses classes, ses objets, sa logique !
 
----
+#-#-#
 
 # Les frameworks populaire en PHP
 

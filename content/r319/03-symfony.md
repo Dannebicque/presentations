@@ -2,6 +2,7 @@
 
 ![Symfony](ressources/r319/logosymfony.png)
 
+#-#-#
 
 # Symfony
 
@@ -11,6 +12,7 @@
 * Framework français !, De renommée mondiale
 * Premier framework en France et en Europe
 
+#-#-#
 
 # Symfony : Avantages
 
@@ -18,11 +20,13 @@
 * De nombreux Bundles, contributeurs, utilisateurs
 * Moteur de template puissant et simple
 
+#-#-#
 
 # Releases Process
 
 ![Symfony](ressources/r319/realease.png)
 
+#-#-#
 
 # Symfony évolution...
 
