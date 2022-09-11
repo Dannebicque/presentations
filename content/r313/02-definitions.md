@@ -23,7 +23,7 @@
 
 * La programmation procédurale c'est :
   * Définir des variables
-  * Ecrire des procédures (fonctions) pour les manipuler sans associer explicitement les unes aux autres
+  * Écrire des procédures (fonctions) pour les manipuler sans associer explicitement les unes aux autres
   * Exécuter un programme se réduit à appeler ces procédures dans un ordre décrit par le séquençage des instructions et en leur fournissant les données nécessaires à l’accomplissement de leurs tâches.
 
 ---
@@ -34,7 +34,7 @@ Au fur et à mesure que les programmes écrits avec une approche **procédurale*
 
 ---
 
-Slide avec chateau de carte...
+<iframe src="https://giphy.com/embed/YR2MhvmPCDQMe5gy4P" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BigBrotherAU-big-brother-bbau-bbau2-YR2MhvmPCDQMe5gy4P">via GIPHY</a></p>
 
 ---
 
@@ -47,3 +47,9 @@ Slide avec chateau de carte...
   * Classe et objet
   * Encapsulation
   * Héritage
+
+---
+
+# Alors jouons au golf !
+
+<iframe src="https://giphy.com/embed/F0HQQ0p3Mp8QM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/golf-ninja-pose-F0HQQ0p3Mp8QM">via GIPHY</a></p>

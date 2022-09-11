@@ -54,5 +54,10 @@ Rédiger...
 
 * Pensez différemment la programmation
 * Exemples disponibles sur Internet
-* Suivez et impliquez vous dans les TD et les TP : faites le grand plongeon
+* Suivez et impliquez-vous dans les TD et les TP : faites le grand plongeon
+
+---
+
+<iframe src="https://giphy.com/embed/14uzPzKMOuVIPu" width="480" height="477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/14uzPzKMOuVIPu">via GIPHY</a></p>
+
 

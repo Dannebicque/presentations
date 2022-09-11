@@ -20,19 +20,19 @@
 
 # Question N°3 : Classe ou objet ?
 
-image
+<img src="ressources/r313/classe1.png" width="600px" style="border:0px;"/>
 
 ---
 
 # Question N°4 : Classe ou objet ?
 
-image
+<img src="ressources/r313/classe2.png" width="600px" style="border:0px;"/>
 
 ---
 
 # Question N°5 : Classe ou objet ?
 
-image
+<img src="ressources/r313/classe3.png" width="600px" style="border:0px;"/>
 
 ---
 
@@ -40,3 +40,5 @@ image
 
 * Une classe : est une définition composée ensemble de propriété et de méthodes
 * Un objet : est une instance d'une classe
+
+_On verra la syntaxe d'une classe dans la seconde partie du cours_

@@ -30,10 +30,19 @@ Pour un humain :
 
 # Les propriétés sont des variables 
 
+## en PHP
+
 ```php
-$taille = 175;
-$poids = 180;
-$couleurCheveux = 'blond';
+public $taille = 175;
+protected $poids = 180;
+private $couleurCheveux = 'blond';
+```
+
+## en Javascript
+
+```js
+let age = 38;
+let anneeBac = 2001;
 ```
 
 ---
@@ -41,35 +50,36 @@ $couleurCheveux = 'blond';
 # Les méthodes sont des fonctions :
 
 ```php
-function courir() {...}
-function sauter() {...}
+public function courir() {...}
+protected function sauter() {...}
 ```
 
 ---
 
-# Illustration
+# Lien propriétés - méthodes
 
-Imate échange/lien propriétés/données
+<img src="ressources/r313/echanges.png" width="200px" style="border:0px;"/>
+
 
 ---
 
 # Question N°1 : Quelles seraient les propriétés dans un carnet d'adresse ?
 
-- {{% fragment %}}Nom{{% /fragment %}}
-- {{% fragment %}}Prénom{{% /fragment %}}
-- {{% fragment %}}...{{% /fragment %}}
-- {{% fragment %}}Téléphone{{% /fragment %}}
-  
+- Nom <!-- .element: class="fragment" data-fragment-index="1" -->
+- Prénom <!-- .element: class="fragment" data-fragment-index="2" -->
+- ... <!-- .element: class="fragment" data-fragment-index="3" -->
+- Téléphone <!-- .element: class="fragment" data-fragment-index="4" -->
+
 ---
 
 # Question N°2 : Quelles seraient les méthodes dans un carnet d'adresse ?
 
-- {{% fragment %}}Ajouter(){{% /fragment %}}
-- {{% fragment %}}Modifier(){{% /fragment %}}
-- {{% fragment %}}Supprimer(){{% /fragment %}}
-- {{% fragment %}}Appeler(){{% /fragment %}}
-- {{% fragment %}}Lister(){{% /fragment %}}
-- {{% fragment %}}...{{% /fragment %}}
+- Ajouter() <!-- .element: class="fragment" data-fragment-index="1" -->
+- Modifier() <!-- .element: class="fragment" data-fragment-index="2" -->
+- Supprimer() <!-- .element: class="fragment" data-fragment-index="3" -->
+- Appeler() <!-- .element: class="fragment" data-fragment-index="4" -->
+- Lister() <!-- .element: class="fragment" data-fragment-index="5" -->
+- ... <!-- .element: class="fragment" data-fragment-index="6" -->
 
 ---
 
