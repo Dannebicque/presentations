@@ -22,6 +22,28 @@
 
 #-#-#
 
+# Symfony : Des bundles "natifs"
+
+* Pour gérer la sécurité
+* Pour les formulaires et leurs validations
+* Pour envoyer des mails (Mailer)
+* Pour manipuler du texte (String)
+* Pour gérer les fichiers (Filesystem)
+* Pour faire du JS (Webpack-Encore / Stimulus / Symfony UX)
+* [...toute la liste ici ...](https://symfony.com/components)
+
+#-#-#
+
+# Symfony : Des bundles "de la communauté"
+
+* Pour créer un backoffice
+* Pour gérer l'upload de fichiers
+* Pour gérer des fichiers word, excel, PDF...
+* [...toute la liste ici ...](https://packagist.org/)
+
+
+#-#-#
+
 # Releases Process
 
 ![Symfony](ressources/r319/realease.png)
