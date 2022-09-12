@@ -38,3 +38,10 @@
   * PHP 8
 * Symfony 6.1
   * PHP 8.1
+
+---
+
+# Principe de fonctionnement
+
+<img src="ressources/r319/request-response.png" width="600px" style="border:0px;"/>
+
