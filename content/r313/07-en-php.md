@@ -54,12 +54,6 @@ echo $mavoiture->marque;
 
 ---
 
-# Execution du code en "mémoire"
-
-Illustration...
-
----
-
 # Typage en PHP
 
 Quelques mots sur le typage en PHP. Depuis les vers 7.2 et suivante le typage en PHP a été grandement amélioré, et même s'il n'est pas obligatoire est devenu la norme depuis PHP 7.4 et 8 (et suivantes).
@@ -72,7 +66,54 @@ Cela permet aussi d'aider vous outils à vous indiquer si vous faites des erreur
 
 # Typage en PHP
 
-... cours sur le typage...
+Le typage consiste à indiquer le type de données attendu pour une variable, une propriété, un argument d'une fonction, ...
+
+```php
+<?php
+class Voiture {
+    public string $marque;
+
+    function freiner(float $forceDeFreinage): void 
+    {
+        //code de la fonction
+    }
+}
+```
+
+---
+
+# Typage en PHP
+
+Les types possibles sont les types définis par le langage :
+
+* int = Un entier positif ou négatif
+* float = Un nombre à virgule, positif ou négatif
+* string = Une chaîne de caractères
+* bool = Un booléen (vrai ou faux)
+* array = Un tableau
+* object = Un objet, sans préciser en particulier lequel
+* ...
+* mixed = N'importe quel type
+
+---
+
+# Typage en PHP
+
+Il est possible de définir des types plus spécifiques :
+
+* class-name = Un objet de la classe _class-name_, que vous avez écrite ou que vous utilisez depuis PHP ou une dépendance
+* interface-name = Un objet implémentant l'interface _interface-name_, que vous avez écrite ou que vous utilisez depuis PHP ou une dépendance
+
+---
+
+# Typage en PHP
+
+Il est également possible de définir un type en retour pour les fonctions/méthodes
+
+On peut utiliser les mêmes types que pour les variables, mais aussi :
+
+* void = La fonction ne retourne rien
+* self = La fonction retourne un objet de la classe courante
 
 ---
 
