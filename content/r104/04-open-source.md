@@ -1,6 +1,5 @@
-# L’Open-Source
-
-## Ce que les Hackers ont apporté au « Web » et à l’informatique
+<h1 class="r-fit-text">L’Open-Source</h1>
+<h2 class="r-fit-text">Ce que les Hackers ont apporté au « Web » et à l’informatique</h2>
 
 ---
 

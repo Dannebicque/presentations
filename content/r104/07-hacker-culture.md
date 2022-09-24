@@ -1,3 +1,8 @@
+<h1 class="r-fit-text">Quelques oeuvres, séries, films, livres</h1>
+<h2>qui parlent de hackers</h2>
+
+---
+
 # Documentaires
 
 * Le Hippie et le Geek : https://youtu.be/Uhgh87wU1FI
@@ -30,5 +35,14 @@
 * SHINY_FLAKES : LE PETIT BARON DU DARKNET (2021, netflix)
 * ...
 
+---
+
+# Livres
+
+* Lève-toi et code. Confessions d'un hacker (2018, Rabbin des bois)
+* L'art de la supercherie (2005, Kevin D. Mitnick)
+* Le Crépuscule des Fauves (trilogie, Marc Lévy, 2019-2022)
+* Black-Out (2016, Marc Elsberg), lire également Zero
+* ...
 
 

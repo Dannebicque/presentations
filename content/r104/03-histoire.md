@@ -1,4 +1,4 @@
-# Reprenons l'histoire
+<h1 class="r-fit-text">Reprenons l'histoire</h1>
 
 ---
 
