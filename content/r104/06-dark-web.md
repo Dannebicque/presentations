@@ -27,7 +27,7 @@ Archive.org, WorldCat.org, …
 
 Un « darknet est un réseau « overlay » aussi dit « réseau superposé » qui utilise des protocoles spécifiques intégrant des fonctionnalités permettant à ses utilisateurs l’anonymat. 
 Ils se distinguent des autres réseaux « peer to peer » normaux car le partage y est anonyme (les adresses IP ne sont pas partagées publiquement) et les utilisateurs peuvent communiquer librement avec peu de crainte d’interférence gouvernementale ou commerciale.
-Ces réseaux sont dits « superposés » car ils reposent sur un autre pour fonctionner, internet en l’occurrence. Pas d’internet, pas de darknet.
+Ces réseaux sont dits « superposés » parce qu'ils reposent sur un autre pour fonctionner, internet en l’occurrence. Pas d’internet, pas de darknet.
 
 ---
 
