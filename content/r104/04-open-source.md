@@ -35,16 +35,18 @@ A l’origine de nombreux logiciels et compilateurs sur GNU, puis GNU/Linux (nom
 ## Le meilleur exemple de la philosophie de Stallman
 
 ---
-https://www.youtube.com/watch?v=nwrWDrX-b4A
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nwrWDrX-b4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 # D'autres références
+
 Richard Stallman,
-Système hacker (MIT)
+Système hacker (MIT) : <br>
 https://www.youtube.com/watch?v=G8rV2p_ispg
 
-Une contre histoire de l’Internet (Arte)
+Une contre histoire de l’Internet (Arte) : <br>
 https://www.youtube.com/watch?v=jMKEQo8KQlg
 
 

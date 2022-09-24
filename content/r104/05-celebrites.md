@@ -1,7 +1,15 @@
+<h1 class="r-fit-text">Quelques hackers célèbres</h1>
+<h2>Et des pirates</h2>
+
+---
+
 # Eric Steven Raymond, _a.k.a_ ESR
 
 <div class="col1">
-Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamment la popularisation du terme open source par opposition à free software (ou logiciel libre). Il est l'auteur du livre La Cathédrale et le Bazar qui résume ses points de vue sur ce sujet.
+
+* White hat
+* Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamment la popularisation du terme open source par opposition à free software (ou logiciel libre). 
+* Il est l'auteur du livre La Cathédrale et le Bazar qui résume ses points de vue sur ce sujet.
 
 </div>
 <div class="col2">
@@ -19,30 +27,9 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 * Auteur de plusieurs normes de crytapge (SHA-*, Ed25519...)
 </div>
 <div class="col2">
-<img src="ressources/r104/bernstein.jpg" alt="ESR" style="border:0; width:100%">
+<img src="ressources/r104/bernstein.jpg" alt="ESR" style="border:0; height:100%">
 
 </div>
-
----
-
-# Richard Stallman
-
-<div class="col1">
-<img src="ressources/r104/richard_stallman.jpg" alt="ESR" style="border:0; width:100%">
-</div>
-<div class="col2">
-
-* Auteur de GNU, Emacs, ...
-* co-fondateur de la FSF (Free Software Fondation)
-* Militant de l'open-source
-
-</div>
-
----
-
-# Richard Stallman
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwrWDrX-b4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -50,13 +37,14 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 
 <div class="col1">
 
+* White hat
 * Auteur de Linux en 1991 (il a 21 ans).
 * Toujours à la tête de l'évolution de Linux
 * Il a été nommé par le magazine Time comme l'une des 100 personnes les plus influentes du monde en 2008.
-* 
+
 </div>
 <div class="col2">
-<img src="ressources/r104/linis.jpg" alt="ESR" style="border:0; width:100%">
+<img src="ressources/r104/linis.jpg" alt="ESR" style="border:0; height:100%">
 
 </div>
 
@@ -66,6 +54,7 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 
 <div class="col1">
 
+* White hat
 * Mathématiciens
 * Contributeurs du langage LISP
 * A l'origine de la communauté des hackers
@@ -87,9 +76,10 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 
 <div class="col2">
 
+* White hat
 * Créateur de la première manette de jeu vidéo
 * Co-auteur de spacewar
-* 
+
 </div>
 
 ---
@@ -98,6 +88,7 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 
 <div class="col1">
 
+* White hat
 * Auteurs de UNIX
 * Auteurs du langage C
 * Ken Thompson est employée par Google pour développer le Go
@@ -117,10 +108,11 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 </div>
 <div class="col2">
 
+* White hat
 * Auteur du langage Python
 * Fondateur de la Python Software Foundation
 * Employé chez Google, puis Dropbo
-* 
+
 </div>
 
 ---
@@ -133,6 +125,7 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 </div>
 <div class="col2">
 
+* White hat
 * Donne un clavier à la blue-box de Cap'n Crunch
 * Inventeur de l'Appel I, II 
 * Invente un lecteur de disquette pour les produits Apple
@@ -145,7 +138,7 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 
 <div class="col1">
 
-* Pirate
+* Black hat
 * Accède à des systèmes informatiques de grandes entreprises (Pacific Bell, Motorola, Nokia, Fujitsu, etc.)
 * Plusieurs arrestations et condamnation
 * Il est condamné à 5 ans de prison
@@ -168,6 +161,7 @@ Eric Steven Raymond, est un hacker américain célèbre à qui l'on doit notamme
 </div>
 <div class="col2">
 
+* black hat
 * Professeur au MIT
 * Auteur du premier ver informatique (le Morris Worm) en 1988
 * Il est condamné à 400 heures de travaux d'intérêt général et à 10 000 dollars d'amende
