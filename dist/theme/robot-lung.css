@@ -435,3 +435,12 @@ body {
   color: #f3d792;
 }
 
+.reveal .col1 {
+    width: 50%;
+    float: left;
+}
+.reveal .col2 {
+  width: 50%;
+  float: left;
+}
+

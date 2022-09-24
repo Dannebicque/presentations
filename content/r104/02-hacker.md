@@ -1,6 +1,6 @@
 # Les Hackers
 
-Pour la prochaine partie, on va plutôt se focaliser sur les black hats/grey hats et éventuellement hacktivistes.
+Pour la prochaine partie, on va plutôt se focaliser sur les _white hats_/_grey hats_ et éventuellement hacktivistes.
 
 ---
 
@@ -13,9 +13,11 @@ Pour la prochaine partie, on va plutôt se focaliser sur les black hats/grey hat
 
 ---
 
-<div class="r-fit-text">
-Les hackers sont à l’origine de beaucoup de développement informatique, ils sont nécessaires !
-</div>
+<h1 class="r-fit-text">
+Les hackers sont à l’origine de beaucoup de développement informatique</h1>
+<h1 class="r-fit-text">
+ils sont nécessaires !
+</h1>
 
 ---
 
@@ -30,4 +32,8 @@ Les hackers sont à l’origine de beaucoup de développement informatique, ils 
 * Le e-commerce !
     * Les hackers ont permis de sécuriser les transactions en ligne
 
+---
 
+# Citation
+
+> « Il existe une communauté, une culture partagée, de programmeurs expérimentés et de spécialistes des réseaux, dont l'histoire remonte aux premiers mini-ordinateurs multi-utilisateurs, il y a quelques dizaines d'années, et aux premières expériences de l'ARPAnet. Les membres de cette culture ont créé le mot «hacker». Ce sont des hackers qui ont créé l'Internet. Ce sont des hackers qui ont fait du système d'exploitation Unix ce qu'il est de nos jours. Ce sont des hackers qui font tourner les newsgroups, Usenet et le World Wide Web. » -- Eric S. Raymond (_a.k.a._ ESR), _The New Hacker's Dictionary_
