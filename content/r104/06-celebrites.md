@@ -1,13 +1,13 @@
 <h1 class="r-fit-text">Quelques hackers célèbres</h1>
 <h2>Et des pirates</h2>
 
----
+#-#-#
 
 # Question 8
 
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a2934c2f37212025502f9" width="100%"></iframe>
 
----
+#-#-#
 
 # Eric Steven Raymond, _a.k.a_ ESR
 
@@ -22,7 +22,7 @@
 <img src="ressources/r104/est.jpg" alt="ESR" style="border:0; width:100%">
 </div>
 
----
+#-#-#
 
 # Daniel J. Bernstein
 
@@ -37,7 +37,7 @@
 
 </div>
 
----
+#-#-#
 
 # Linus Torvalds
 
@@ -54,7 +54,7 @@
 
 </div>
 
----
+#-#-#
 
 # Bill Gosper & Richard Greenblatt
 
@@ -72,7 +72,7 @@
 
 </div>
 
----
+#-#-#
 
 # Alan Kotok
 
@@ -88,7 +88,7 @@
 
 </div>
 
----
+#-#-#
 
 # Dennis Ritchie (dmr) & Ken Thompson (ken)
 
@@ -104,7 +104,7 @@
 <img src="ressources/r104/ken-thompson-dennis-ritchie.jpg.webp" alt="ESR" style="border:0; width:100%">
 </div>
 
----
+#-#-#
 
 # Guido van Rossum
 
@@ -121,7 +121,7 @@
 
 </div>
 
----
+#-#-#
 
 # Steve Wozniak
 
@@ -138,7 +138,7 @@
 
 </div>
 
----
+#-#-#
 
 # Kevin Mitnick, _a.k.a_ Le Condor
 
@@ -157,7 +157,7 @@
 
 </div>
 
----
+#-#-#
 
 # Robert Tappan Morris
 
@@ -175,7 +175,7 @@
 
 </div>
 
----
+#-#-#
 
 # Michael Calce, _a.k.a_ Mafiaboy
 
@@ -185,7 +185,7 @@
 * Arrêté en 2000
 * Depuis 2005 il est journaliste en cyber-sécurité
 
----
+#-#-#
 
 # Quelques associations célèbres
 
@@ -196,7 +196,7 @@
 * Hacking For Girliez (groupe de hackers féminins) ; responsable de nombreux piratages de sites comme ceux de la NASA, du New York Times ou de la firme Motorola.
 * Bureau 121, une unité militaire de l'armée de Corée du Nord, notamment désignée coupable du piratage contre Sony Pictures Entertainment9.
 
----
+#-#-#
 
 # Autres Liens 
 

@@ -1,18 +1,19 @@
 <h1 class="r-fit-text">Dark Web / Deep Web / Dark Net</h1>
 <h2>Existe-t-il une différence entre ces termes ?</h2>
 
----
+#-#-#
 
-<img src="ressources/r104/dark-web.png" style="border:0; height: 100%">
+<img src="ressources/r104/dark-web.png" style="border:0; height: 500px"> <br>
+(Source : <a href="https://fr.wikipedia.org/wiki/Web_profond" target="_blank">Wikipedia</a>)
 
----
+#-#-#
 
 # Deep Web
 On parle de **deep web** (web profond) en opposition au web surfacique, visible et indexé par les moteurs de recherche. Vous surfez sur la surface du web presque tout le temps, alors qu’il ne représente, avec ses milliards de pages, qu’une infime partie de tout ce à quoi vous pourriez vraiment avoir accès via internet.
 
-Ce « web profond » représente 96% de l’intégralité du web alors que le contenu accessible par tous n’en représente que 4%, ou encore on estime qu’il y a 500 fois plus de sites sur le « deep web » que sur le web traditionnel.
+On estime que le « web profond » représente 96% de l’intégralité du web alors que le contenu accessible par tous n’en représente que 4%, ou encore on estime qu’il y a 500 fois plus de "sites" sur le « deep web » que sur le web traditionnel.
 
----
+#-#-#
 
 # Accéder au deep web
 
@@ -22,13 +23,13 @@ Un simple compte permet d’accéder à une partie du deep web (intranet, messag
 
 Des outils permettent de faire des recherches sur le « deep web » : <a href="https://archive.org/" target="_blank">Archive.org</a>
 
----
+#-#-#
 
 # Question 9
 
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a2f9a5ded3c1222558c5f" width="100%"></iframe>
 
----
+#-#-#
 
 # Darknet
 
@@ -38,7 +39,7 @@ Ils se distinguent des autres réseaux « peer to peer » normaux car le partage
 
 Ces réseaux sont dits « superposés » parce qu'ils reposent sur un autre pour fonctionner, internet en l’occurrence. **Pas d’internet, pas de darknet**.
 
----
+#-#-#
 
 # Dark Web
 
@@ -46,7 +47,7 @@ Le **Dark Web** désigne le contenu du World Wide Web se trouvant sur les dark n
 
 Le Dark Web n’est pas forcément illégal ou dangereux !
 
----
+#-#-#
 
 # Accéder aux darknets
 
@@ -60,7 +61,7 @@ Le **réseau Tor** a été à l’origine fondé pour que des activistes et ONG 
 
 TOR permet de vous faire accéder aux réseaux du Ddarknet de manière « anonyme »
 
----
+#-#-#
 
 # Tor : quelles sécurités et réglementations
 
@@ -68,7 +69,7 @@ Une chose à garder en tête : il demeure très difficile de réglementer Tor. S
 
 Les différentes mesures de sécurité mises en place par le projet Tor pour assurer la sécurité et l’anonymat des utilisateurs ne sont pas infaillibles et les autorités réussissent régulièrement des opérations de grande ampleur contre les places de marché clandestines. Wall Street Market et Silkkitie ont été récemment la cible d’une opération judiciaire internationale visant à mettre un terme à leurs activités et à arrêter leurs administrateurs.
 
----
+#-#-#
 
 # Tor : quelles sécurités et réglementations
 
@@ -78,7 +79,7 @@ Prudence donc : la nature illégale de certains sites qui se trouvent sur le ré
 
 (source: https://www.papergeek.fr/dark-web-et-deep-web-quelles-differences-et-comment-y-acceder-2963)
 
----
+#-#-#
 
 # Naviguer dans le Dark Web
 
@@ -90,7 +91,7 @@ Il existe des « wiki » qui sont comme des annuaires des pages du Dark Web, mai
 
 Par exemple : http://3g2upl4pq6kufc4m.onion/
 
----
+#-#-#
 
 # Quels usages pour le Dark Web
 

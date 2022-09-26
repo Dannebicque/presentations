@@ -1,6 +1,6 @@
 <h1 class="r-fit-text">Reprenons l'histoire</h1>
 
----
+#-#-#
 
 # 1950, au MIT...
 
@@ -8,7 +8,7 @@
 * Ils deviennent rapidement la proie des étudiants qui les « bidouillent » la nuit, en dehors des créneaux horaires
   d'utilisation encadrée.
 
----
+#-#-#
 
 # 1950, au MIT...
 
@@ -25,7 +25,7 @@
 <img src="ressources/r104/ENIAC21.jpg" alt="ENIAC" style="width: 100%; border:0"/>
 </div>
 
----
+#-#-#
 
 # 1950, au MIT...
 
@@ -35,7 +35,7 @@
 * Une éthique se forme peu à peu au sein de cette confrérie unique en son genre : « l'accès libre à l'information », en
   porte-à-faux avec l'usage académique fait des ordinateurs, réservés à des doctorants.
 
----
+#-#-#
 
 # 1959, le terme hacker...
 
@@ -54,7 +54,7 @@
 <a href="https://www.wired.com/2014/11/the-tech-model-railroad-club/" target="_blank">https://www.wired.com/2014/11/the-tech-model-railroad-club/</a>
 </div>
 
----
+#-#-#
 
 # 1962, au MIT...
 
@@ -75,7 +75,7 @@ intergalactique, **Spacewar**, en 1962 (programmé par Steven Russel).
 </div>
 </div>
 
----
+#-#-#
 
 # 1965, la Silicon Valley ...
 
@@ -93,15 +93,13 @@ intergalactique, **Spacewar**, en 1962 (programmé par Steven Russel).
 <img style="border: 0" src="ressources/r104/Map_silicon_valley_cities.png" alt="Silicon Valley" width="100%" />
 </div>
 
-
-
----
+#-#-#
 
 # Question 5
 
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a281ac82f201236677a93" width="100%"></iframe>
 
----
+#-#-#
 
 # 1969, ARPANET...
 
@@ -120,7 +118,7 @@ _Etat du réseau Arpanet en 1974_
 
 </div>
 
----
+#-#-#
 
 # 1969, le retour du phreaking et des céréales...
 
@@ -138,8 +136,7 @@ _Etat du réseau Arpanet en 1974_
 <a href="https://medium.com/everything-80s/how-capn-crunch-cereal-led-to-apple-computers-c1ee218fef18">Article sur Cap'n Crunch</a>
 </div>
 
-
----
+#-#-#
 
 # 1969, le retour du phreaking et des céréales...
 
@@ -147,9 +144,9 @@ _Etat du réseau Arpanet en 1974_
 
 Les exploits de Cap'n Crunch vont inspirer une nouvelle génération de bidouilleurs informatiques réunis au sein du :
 **Homebrew Computer Club**. Ses membres vont modifier et faire évoluer l’un des premiers ordinateurs individuels :
-l’Altaïr
+l’Altaïr 8800. 
 
-8800. Parmi eux : Steve Wozniak et Steve Jobs, Bill Gates et Paul Allen.
+Parmi eux : Steve Wozniak et Steve Jobs, Bill Gates et Paul Allen.
 
 </div>
 
@@ -164,7 +161,7 @@ l’Altaïr
 <a href="https://www.mid-day.com/lifestyle/health-and-fitness/article/how-the-homebrew-computer-club-revolutionised-computing-16036154">Article sur le Homebrew Computer Club</a>
 </div>
 
----
+#-#-#
 
 # 1980, le développement des PC...
 
@@ -173,7 +170,7 @@ l’Altaïr
 * Ce droit va à l’encontre de l’idéal des hackers de « partage libre de données »
 * Ils verront donc ici de nouveaux défis pour rendre l'accès libre aux logiciels
 
----
+#-#-#
 
 # 1983, ARPANET est hackée... vive internet
 
@@ -184,11 +181,11 @@ l’Altaïr
 
 </div>
 <div class="col2">
-<img style="border: 0" src="ressources/r104/kevin_poulsen.jpg" alt="Kevin Poulsen" width="75%%" /><br>
+<img style="border: 0" src="ressources/r104/kevin_poulsen.jpg" alt="Kevin Poulsen" width="75%" /><br>
 
 </div>
 
----
+#-#-#
 
 # 1983, l'open-source ... et Linux
 
@@ -208,7 +205,7 @@ l’Altaïr
 </div>
 </div>
 
----
+#-#-#
 
 # 1983, les hackers et le cinéma...
 
@@ -216,14 +213,13 @@ La même année sort sur les écrans le film de science-fiction « Wargames » d
 aventures d’un jeune hacker qui accède au système informatique militaire américain et manque de déclencher une guerre
 thermonucléaire globale. Le grand public y découvre l’univers « fantasmé » des hackers.
 
----
+#-#-#
 
 # 1983, Wargame
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hbqMuvnx5MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
----
+#-#-#
 
 # 1984, L'éthique des hackers
 
@@ -245,7 +241,7 @@ L'« **éthique hacker** » a été codifiée en 1984 par **Steven Levy** selon 
 Steven Lévy, Journaliste et auteur de « Hackers : Heroes of the Computer Revolution »
 </div>y
 
----
+#-#-#
 
 # 1986, l'illégalité...
 
@@ -255,9 +251,9 @@ Steven Lévy, Journaliste et auteur de « Hackers : Heroes of the Computer Revol
   le domaine de l’informatique
 * Fin des années 1980, L’ordinateur est devenu indispensable pour l’économie et la vie sociale.
 
----
+#-#-#
 
-# 1990, Internet is comming !
+# 1990, _Internet is comming_ !
 
 <div class="col1">
 
@@ -276,7 +272,7 @@ Steven Lévy, Journaliste et auteur de « Hackers : Heroes of the Computer Revol
 </div>
 </div>
 
----
+#-#-#
 
 # 2000, le craking
 
@@ -295,7 +291,7 @@ Steven Lévy, Journaliste et auteur de « Hackers : Heroes of the Computer Revol
 
 </div>
 
----
+#-#-#
 
 # 2000, les hacktivistes
 
@@ -313,7 +309,7 @@ Steven Lévy, Journaliste et auteur de « Hackers : Heroes of the Computer Revol
 
 </div>
 
----
+#-#-#
 
 # Aujourd'hui
 
@@ -326,7 +322,7 @@ c'est-à-dire un « hacker » opérant de façon illégale ou non éthique. Les 
 kiddies, cyber-délinquants à la recherche de cibles faciles ne demandant pas de connaissance particulière en
 informatique.
 
----
+#-#-#
 
 # Aujourd'hui
 

@@ -47,13 +47,13 @@
 
 >But d'amélioration, d'usage dans un autre contexte.
 
----
+#-#-#
 
 # Hack (to hack)
 
 <img src="ressources/r104/hack.jpg" width="600px" style="border:0px;"/>
 
----
+#-#-#
 
 # In french ...
 
@@ -63,7 +63,7 @@
 * Détournement
 * Système «D»
 
----
+#-#-#
 
 # In french ...
 
@@ -71,13 +71,13 @@
 
 Nous verrons la différence dans les prochains slides...
 
----
+#-#-#
 
 # Question 3
 
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a28003f95f21201ccf9d4" width="100%"></iframe>
 
----
+#-#-#
 
 # Qu'est ce qu'un hacker
 
@@ -86,7 +86,7 @@ Nous verrons la différence dans les prochains slides...
 * Cette dernière définition fait écho à celle utilisée depuis les années 1950 par les radio-amateurs pour qui le hacking est un bricolage créatif visant à améliorer le fonctionnement d'un système.
 
 
----
+#-#-#
 
 # En résumé : Une définition "moderne" de Hacker
 
@@ -104,7 +104,7 @@ Nous verrons la différence dans les prochains slides...
 
 <img src="ressources/r104/hack-pirate.png" width="800px" style="border:0px;"/>
 
----
+#-#-#
 
 # White Hats (_les gentils hackers_)
 
@@ -112,51 +112,34 @@ Nous verrons la différence dans les prochains slides...
 
 * Devenir un hacker _white hats_ c’est assimiler des connaissances et de l’expérience en participant aux projets de la communauté, afin d’être accepté par ses membres. Cela nécessite de l’investissement dans des projets open source, et d’adopter une certaine culture.
 
----
+#-#-#
 
 # Black Hats (_les méchants pirates_)
 
 * Les _black hats_ utilisent leurs connaissances pour défaire ou contourner, à but malveillant, les systèmes et les réseaux d’informations. Ils ont également leur propre communauté. On peut les qualifier de « pirates informatiques » dans le sens où leurs actions sont nuisibles.
 * Leurs cibles peuvent être n’importe quel réseau d’entreprise, des serveurs névralgiques d’Internet ou d’organisation comme la NASA, des sites de gouvernement… Ils sont aussi à l’origine d’un certain nombre de menaces tels que les virus, vers de terre… Leurs cibles sont alors n’importe quel ordinateur branché sur le web.
 
----
+#-#-#
 
 # Grey Hats (_les hackers indépendants_)
 
-* Les _grey hats_ sont des hackers qui utilisent leurs connaissances pour des actions qui peuvent être à la fois légitimes et illégales. Ils sont généralement peu ou pas nuisibles mais utilisent des techniques parfois illégales pour revendiquer des messages ou démontrer des failles, ou encore rechercher une renommée.
+* Les _grey hats_ sont des hackers qui utilisent leurs connaissances pour des actions qui peuvent être à la fois légitimes et illégales. Ils sont généralement peu ou pas nuisibles, mais utilisent des techniques parfois illégales pour revendiquer des messages ou démontrer des failles, ou encore rechercher une renommée.
 
----
+#-#-#
 
 # Hacktivistes (_les hackers militants_)
 
 * Hacktivisme vient de la fusion des mots **hacker** et **activisme**. L’hacktiviste est un hacker dont les objectifs sont politiques, et emploie ses connaissances en informatique pour diffuser et promulguer ses opinions. Ses actions les plus spectaculaires sont notamment le piratage de sites informatiques en altérant les données, en détournant des serveurs, en remplaçant des pages d’accueil afin de détourner la signification et l’engagement de ces sites. 
 * Si l’hacktivisme est une nouvelle forme de protestation et bien souvent une manière de se faire entendre, cela reste une action totalement illégale, « hacktiviste » est donc évidemment un autre sens qu’on donne au « pirate informatique ».
 
----
+#-#-#
 
 # Crakers (_les déplombeurs_)
 
-* Le cracker, ou «déplombeur» de logiciels, est spécialisé dans le cassage des protections des logiciels. Il possède de très bonnes connaissances en assembleur ainsi que des outils (désassembleur, débogueur… ) qui lui permette d’analyser le code d’un programme transmis au processeur. Cela lui permet de neutraliser ou contourner les mesures de protections d’un logiciel en créant un patch (ou crack), ou bien un « keygen » dans le cas de logiciels protégés par des clefs. Les motivations des crackers sont multiples : renommée, exploit, ou tout simplement par intérêts personnels.
+* Le cracker, ou « déplombeur » de logiciels, est spécialisé dans le cassage des protections des logiciels. Il possède de très bonnes connaissances en assembleur ainsi que des outils (désassembleur, débogueur… ) qui lui permette d’analyser le code d’un programme transmis au processeur. Cela lui permet de neutraliser ou contourner les mesures de protections d’un logiciel en créant un patch (ou crack), ou bien un « keygen » dans le cas de logiciels protégés par des clefs. Les motivations des crackers sont multiples : renommée, exploit, ou tout simplement par intérêts personnels.
 
----
+#-#-#
 
 # Script-Kiddies
 
-* Script-Kiddie est un terme péjoratif, il désigne des informaticiens néophytes qui utilisent des outils crées par les hackers ou les crackers. Ils sont nombreux et vantards mais ils représentent tout de même une menace de part leur nombre, leur incompétence, et leur obstination.
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
+* Script-Kiddie est un terme péjoratif, il désigne des informaticiens néophytes qui utilisent des outils créés par les hackers ou les crackers. Ils sont nombreux et vantards, mais ils représentent tout de même une menace grâce à leur nombre, leur incompétence et leur obstination.

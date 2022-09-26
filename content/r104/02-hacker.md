@@ -2,7 +2,7 @@
 
 Pour la prochaine partie, on va plutôt se focaliser sur les _white hats_/_grey hats_ et éventuellement hacktivistes.
 
----
+#-#-#
 
 # Les motivations d’un hacker
 
@@ -11,7 +11,7 @@ Pour la prochaine partie, on va plutôt se focaliser sur les _white hats_/_grey 
 * L’expertise sur un système
 * L’amélioration d’un système
 
----
+#-#-#
 
 <h1 class="r-fit-text">
 Les hackers sont à l’origine de beaucoup de développement informatique</h1>
@@ -19,12 +19,12 @@ Les hackers sont à l’origine de beaucoup de développement informatique</h1>
 ils sont nécessaires !
 </h1>
 
----
+#-#-#
 
 # On leur doit ...
 
 * L’internet
-  * C’est parce qu’ils ont «hacké» l’ARPANET que les militaires ont décidé «d’offrir» une version grand public
+  * C’est parce qu’ils ont «hacké» l’ARPANET que les militaires ont décidé « d’offrir » une version grand public.
 * Le web (le www) 
   * en l’améliorant constamment, en détectant les failles, …
 * GNU/LINUX (et unix)
@@ -32,7 +32,7 @@ ils sont nécessaires !
 * Le e-commerce !
     * Les hackers ont permis de sécuriser les transactions en ligne
 
----
+#-#-#
 
 # Citation
 
