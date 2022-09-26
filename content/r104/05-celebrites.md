@@ -190,5 +190,12 @@
 * Hacking For Girliez (groupe de hackers féminins) ; responsable de nombreux piratages de sites comme ceux de la NASA, du New York Times ou de la firme Motorola.
 * Bureau 121, une unité militaire de l'armée de Corée du Nord, notamment désignée coupable du piratage contre Sony Pictures Entertainment9.
 
+---
+
+# Autres Liens 
+
+* https://www.phonandroid.com/voici-les-10-hackers-les-plus-dangereux-de-tous-les-temps.html
+
+
 
 

@@ -56,10 +56,6 @@
 
 ---
 
-# Les hackers et le mouvement hippie
-
----
-
 # 1962, au MIT...
 
 <div class="col1">
@@ -313,17 +309,22 @@ Steven Lévy, Journaliste et auteur de « Hackers : Heroes of the Computer Revol
 
 ---
 
-# ???
-
----
-
 # Aujourd'hui
 
 Aujourd'hui encore, un hacker désigne un virtuose pouvant intervenir dans différents domaines comme la programmation,
 l'architecture matérielle d'un ordinateur, l'administration système, l'administration réseau, la sécurité informatique
 ou tout autre domaine de l'informatique;
-les médias grand public utilisent à tort le terme hacker dans le sens de cracker, black hat (« chapeau noir »),
+
+Les médias grand public utilisent à tort le terme hacker dans le sens de cracker, black hat (« chapeau noir »),
 c'est-à-dire un « hacker » opérant de façon illégale ou non éthique. Les hackers sont parfois confondus avec les script
 kiddies, cyber-délinquants à la recherche de cibles faciles ne demandant pas de connaissance particulière en
 informatique.
+
+---
+
+# Aujourd'hui
+
+Beaucoup de fait dans les médias (leak de jeux-vidéos, cyber attaque...) sont l'oeuvre de hacker pour une partie, ou de simple diffusion d'employés pour d'autres.
+
+Les "vrai hacker" font très rarement parler d'eux, et sont souvent des personnes très discrètes, oeuvrant pour la communauté ou des causes justes (diffusion d'information pendant le printemps arabes, "guerre numérique" pendant le conflit entre la Russie et l'Ukraine, ...)
 

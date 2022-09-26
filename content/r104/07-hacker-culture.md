@@ -21,6 +21,7 @@
 * Silicon Valley (2014-2019)
 * The Billion Dollar Code (Netflix)
 * How to Sell Drugs Online (Fast) (2019, Netflix)
+* Halt & Catch Fire (2014-2017)
 * ...
 
 ---

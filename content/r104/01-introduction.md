@@ -1,8 +1,25 @@
-# WR104 - Culture numérique
-
-## Hackers, pirates et autres pionniers indispensables au Web
+<h1 class="r-fit-text">WR104 - Culture numérique</h1>
+<h2  class="r-fit-text">Hackers, pirates et autres pionniers indispensables au Web</h2>
 
 @Dannebique
+
+---
+
+# Organisation
+
+* Cours en trio avec Patrice Gommery (Histoire de l'Informatique) et Martial Martin (Cyberculture)
+* Evaluation écrite commune en janvier
+* 4 TD
+
+---
+
+# Sommaire
+
+* Histoire de hacker
+* Open-Source
+* Célébrités
+* Dark-Web
+* Hackers et Culture
 
 ---
 
