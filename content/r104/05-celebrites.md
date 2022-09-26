@@ -3,6 +3,12 @@
 
 ---
 
+# Question 8
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a2934c2f37212025502f9" width="100%"></iframe>
+
+---
+
 # Eric Steven Raymond, _a.k.a_ ESR
 
 <div class="col1">

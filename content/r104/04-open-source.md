@@ -3,11 +3,23 @@
 
 ---
 
+# Question 6
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a2aa8884feb1240fb53fa" width="100%"></iframe>
+
+---
+
+# Question 7
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a2ac903057211fd5981f5" width="100%"></iframe>
+
+---
+
 # Définition
 
 La désignation open source ou code source ouvert, s'applique aux logiciels (ou tout œuvre/création, de manière générale) dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. 
 Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs.
-Le code est librement accessible, modifiable, mais l’usage peut parfois être payant dans certains contexte !
+Le code est librement accessible, modifiable, mais l’usage peut parfois être payant dans certains contextes !
 
 ---
 

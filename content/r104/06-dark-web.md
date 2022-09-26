@@ -24,6 +24,12 @@ Des outils permettent de faire des recherches sur le « deep web » : <a href="h
 
 ---
 
+# Question 9
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a2f9a5ded3c1222558c5f" width="100%"></iframe>
+
+---
+
 # Darknet
 
 Un « **darknet** » est un réseau « _overlay_ » aussi dit « réseau superposé » qui utilise des protocoles spécifiques intégrant des fonctionnalités permettant à ses utilisateurs l’anonymat. 

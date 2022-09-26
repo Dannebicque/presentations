@@ -97,11 +97,17 @@ intergalactique, **Spacewar**, en 1962 (programmé par Steven Russel).
 
 ---
 
+# Question 5
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a281ac82f201236677a93" width="100%"></iframe>
+
+---
+
 # 1969, ARPANET...
 
 <div class="col1">
 
-* Le projet fut lancé en 19662, mais ARPANET ne vit le jour qu'en 1969. Sa première démonstration officielle date
+* Le projet fut lancé en 1962, mais ARPANET ne vit le jour qu'en 1969. Sa première démonstration officielle date
   d'octobre 1972.
 * Les prémices d'internet et des réseaux informatiques modernes
 

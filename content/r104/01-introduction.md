@@ -23,6 +23,24 @@
 
 ---
 
+# Pour commencer
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a24a13ebb85121cff9f47" width="100%"></iframe>
+
+---
+
+# Question 1
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a24cc03057211fd598021" width="100%"></iframe>
+
+---
+
+# Question 2
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a24e6d7d42b120b624d82" width="100%"></iframe>
+
+---
+
 # Hack (to hack)
 
 > Astuce pour faire fonctionner un système (programme, appareil, ...) par des chemins détournés.
@@ -55,6 +73,12 @@ Nous verrons la différence dans les prochains slides...
 
 ---
 
+# Question 3
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a28003f95f21201ccf9d4" width="100%"></iframe>
+
+---
+
 # Qu'est ce qu'un hacker
 
 * Le hacker est donc « _quelqu'un qui hack_ », ou « _construit un hack_ ». Le terme apparaît en *1959* dans le jargon du _Tech Model Railroad Club_ (TMRC), une association d'étudiants du _Massachusetts Institute of Technology_ (ou MIT). 
@@ -67,6 +91,12 @@ Nous verrons la différence dans les prochains slides...
 # En résumé : Une définition "moderne" de Hacker
 
 > Personne qui détient des connaissances approfondies en programmation, en réseau, en architecture système, capable de détourner le système pour un usage autre que celui pour lequel il a été conçu.
+
+---
+
+# Question 4
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/ONAOSF/questions/619a2687d9d1551213ce2a18" width="100%"></iframe>
 
 ---
 
