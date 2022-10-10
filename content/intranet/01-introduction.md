@@ -106,7 +106,7 @@ https://github.com/dannebicque/intranetV3 && https://documentation.iutranet.fr (
   * Accompagnement sur le développement bienvenu (notamment pour intégrer une vraie couche de test, CI/CD, optimisation, ...)
     * Alternances, stages ?
 * Globalement au niveau "URCA"
-  * Difficultés pour acheter des "licences" sur des outils (ex: BugSnag (500euros/an), travisCI (ou CodeClimate), licence fontawesome (99euros/an), ...)
+  * Difficultés pour acheter des "licences" sur des outils (ex: BugSnag, travisCI (ou CodeClimate), Netlify, licence fontawesome ou éq., ...)
     * Entreprise souvent américaine (pas de BC, paiement CB, refus de compléter des docs administratifs, ...)
 
 ---
