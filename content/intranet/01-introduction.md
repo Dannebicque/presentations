@@ -96,7 +96,7 @@ https://github.com/dannebicque/intranetV3 && https://documentation.iutranet.fr (
 
 ---
 
-# "Besoin" vis à vis de la DN
+# "Besoin" vis-à-vis de la DN
 
 * Si ca reste "IUT", éventuellement 
   * Accès API YouSign (ou équivalent) ? Celcat ? (plus simple que la BDD)
@@ -118,6 +118,7 @@ https://github.com/dannebicque/intranetV3 && https://documentation.iutranet.fr (
 * Reflexion sur les modalités d'hébergement
   * centralisé ?
   * décentralisé par UFR (comme actuellement ?)
+* Améliorer (revoir) la récupération des maquettes depuis Apogée
 
 
 ---
