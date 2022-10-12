@@ -66,6 +66,7 @@ https://github.com/dannebicque/intranetV3 && https://documentation.iutranet.fr (
 * Gestion des prévisionnels, des personnels du département
 * Gestion des groupes, des cohortes
 * Suivi qualité des formations (enquêtes)
+* Historisation des données sur toute la scolarité des étudiants
 
 ---
 
@@ -84,6 +85,7 @@ https://github.com/dannebicque/intranetV3 && https://documentation.iutranet.fr (
 
 * Gestion des plans de cours (démarche qualité)
 * Suivi des présents (dans le cadre de l'alternance édition des documents de preuve de présence)
+* Contrat Pédagogique étudiant (obligation des B.U.T.)
 * Accessibilité (déjà RGAA AA pour les étudiants)
 * Optimisation des performances (cache, optimisation des requêtes, ...)
 
