@@ -12,9 +12,9 @@
 
 * Une classe est la définition d’un objet
   * Des propriétés = variables
-  * Des méthodes = fonctions  comportements de l’objet
+  * Des méthodes = fonctions *i.e.* comportements de l’objet
 * UN CODE BIEN ECRIT
-  * Distinguer la classe de l’application  un fichier pour la classe, un fichier pour l’application
+  * Distinguer la classe de l’application, *i.e.* un fichier pour la classe, un fichier pour l’application
   * Organiser les classes et les applications dans des dossiers
 * Conventions de nommage :
   * Classe : le nom commence par une majuscule
@@ -27,16 +27,16 @@
 * Un objet est une instance d’une classe. 
 * On créé autant d’objets que l’on souhaite.
 * Objet créé grâce à l’instruction NEW. 
-  * ```php $unobjet=new Uneclasse(…)```
+  * ``` $unObjet = new UneClasse(…)```
 * Objet détruit grâce à l’instruction UNSET
-  * ```php unset($unobjet)```
+  * ``` unset($unObjet)```
 * La création des objets se fait dans l’application
 
 ---
 
 # Créer une application
 
-* On entend par application, la mise en œuvre des classes : créer des objets, manipuler les objets
+* On entend par application, la mise en œuvre des classes : créer des objets, manipuler les objets, ...
 * Une classe = fichier .php distinct
 * Dans l’application fichier .php : utilisation de l’instruction require (ou include)
 
@@ -48,7 +48,7 @@ Les quelques règles précédentes peuvent varier dans la mise en pratique avec 
 
 La manière de nommer les classes, où les mettre, comment les appeler ... sont imposés par le framework.
 
-Exemple Symfony prefixe les controllers (qui sont des classes), vous pouvez créer vos propres classes dans le dossier src...
+Exemple Symfony suffixe les controllers (qui sont des classes), vous pouvez créer vos propres classes dans le dossier src...
 
 ---
 
@@ -61,8 +61,8 @@ Exemple Symfony prefixe les controllers (qui sont des classes), vous pouvez cré
 
 ```php
 public function __construct($arg1, $arg2) {
-	$this->attribut1=$arg1;
-	$this->attribut2=$arg2;
+	$this->attribut1 = $arg1;
+	$this->attribut2 = $arg2;
 }
 ```
 
@@ -70,14 +70,14 @@ public function __construct($arg1, $arg2) {
 
 # Le constructeur
 
-* Précisions
+Précisions
 * Toutes les propriétés de votre classe ne doivent pas nécessairement être initialisées par le constructeur
 * Le constructeur peut initialiser les propriétés qui ne sont pas en paramètres, exemple :
     
 ```php
 public function __construct($arg1, $arg2) {
 	$this->attribut1=$arg1 * $arg2;
-	$this->attribut3=$arg2 * 0,20;
+	$this->attribut3=$arg2 * 0.20;
 }
 ```
 
@@ -95,7 +95,7 @@ public function __destruct() {
 }
 ```
 
---- 
+---
 
 # Propriétés et méthodes statiques
 
@@ -106,12 +106,11 @@ public function __destruct() {
 * Une méthode ou propriété statique ne peut pas utiliser $this
 * Une méthode ou une propriété statique est partagée par toutes les instances d'une classe
 
-
 ---
 
 # Propriétés et méthodes statiques
 
-* Exemple :
+Exemple :
 
 ```php
 class MaClasse {
@@ -123,9 +122,9 @@ class MaClasse {
 ```
 
 * Utilisation
-```php MaClasse::$attribut;```
+``` echo MaClasse::$attribut;```
 * ou
-```php MaClasse::methode();```
+``` MaClasse::methode();```
 
 ---
 
@@ -145,7 +144,7 @@ class MaClasse {
 
 # L'encapsulation
 
-* Exemple :
+Exemple :
 
 ```php
 class MaClasse {
@@ -159,11 +158,12 @@ class MaClasse {
 }
 ```
 * Utilisation
-```php $objet->getAttribut();```
+
+``` $objet->getAttribut();```
 
 * ou
 
-```php $objet->setAttribut(10);```
+``` $objet->setAttribut(10);```
 
 ---
 
@@ -193,7 +193,7 @@ class MaClasse {
 
 * Juste milieu et contexte
   * En fait, il faut s’intéresser au contexte et à l’application que vous développez.
-  * L’utilisation de tests, de méthodes de développement avancées (TDD Test Data Driven), peuvent permettre d’affiner les visibilités.
+  * L’utilisation de tests, de méthodes de développement avancées (TDD _Test Data Driven_), peuvent permettre d’affiner les visibilités.
 
 * Et pour nous, étudiants ?
   * Le choix le plus judicieux reste la visibilité protected, et l’utilisation de getters et de setters sur les propriétés pour lesquelles cela est pertinent.
@@ -213,7 +213,7 @@ class MaClasse {
 
 # L'héritage
 
-* Exemple :
+Exemple :
 
 ```php
 class MaClasseMere {
@@ -279,10 +279,10 @@ class MaClasseFille extends MaClasseMere {
 * Ne pas oublier : propriété déclarée protected, ne sont visibles que par les classes filles.
 * Classe abstraite : mot clé **abstract**
   * permet de créer des modèles de classe : propriétés et méthodes communes à plusieurs classes
-  * Ne peut pas être instanciée
+  * ne peut pas être instanciée
 * mot clé **final**
   * une classe est déclarée **final** ne peut pas avoir de classe fille
-  * Une méthode déclarée **final** ne peut pas être surchargé
+  * une méthode déclarée **final** ne peut pas être surchargé
 
 ---
 
@@ -304,20 +304,25 @@ class MaClasseFille extends MaClasseMere {
 * Les méthodes magiques sont des méthodes qui sont appelées automatiquement par PHP, lors de certains événements
 * Elles sont définies par des noms spéciaux, commençant par double underscore __
 * Exemples :
-  * __construct() : appelée à chaque instanciation de la classe
-  * __destruct() : appelée à la fin du script ou à la destruction de l’objet
-  * __get() : appelée lors de l’accès à une propriété non définie
-  * __set() : appelée lors de l’assignation à une propriété non définie
-  * __call() : appelée lors de l’appel à une méthode non définie
-  * __toString() : appelée lors de l’appel à la méthode echo sur un objet
-  * __isset() : appelée lors de l’appel à la fonction isset() sur une propriété non définie
-  * __unset() : appelée lors de l’appel à la fonction unset() sur une propriété non définie
+  * `__construct()` : appelée à chaque instanciation de la classe
+  * `__destruct()` : appelée à la fin du script ou à la destruction de l’objet
+  * `__get()` : appelée lors de l’accès à une propriété non définie
+  * `__set()` : appelée lors de l’assignation à une propriété non définie
+  * `__call()` : appelée lors de l’appel à une méthode non définie
 
 ---
 
 # Méthodes magiques
 
-* Exemple :
+  * `__toString()` : appelée lors de l’appel à la méthode echo sur un objet
+  * `__isset()` : appelée lors de l’appel à la fonction isset() sur une propriété non définie
+  * `__unset()` : appelée lors de l’appel à la fonction unset() sur une propriété non définie
+
+---
+
+# Méthodes magiques
+
+Exemple :
 
 ```php
 class MaClasse {
@@ -433,13 +438,3 @@ class MaClasse implements Interface2 {
   * contiennent uniquement des déclarations de méthodes, pas leur implémentation
   * ne peuvent pas avoir d’attributs tels que public ou private
 * Intérêt : Une conception rigoureuse et évite les oublis (travail en équipe)
-
-
-
-
-
-
-
-
-
-

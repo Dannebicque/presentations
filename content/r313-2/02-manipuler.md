@@ -25,5 +25,3 @@
 * On peut comparer deux objets avec l’opérateur `==` ou `===`
   * `if ($a == $b) { ... }`
 * `==` compare les valeurs de tous les attributs de chaque objet.
-
-
