@@ -100,3 +100,12 @@ Les frameworks front pourront être utilisés. Les templates sont interdits.
 * Le tunnel de commande et le panier seront particulièrement soignés
 * Vous veillerez à intégrer l'ensemble des mentions légales et des informations nécessaires à la bonne compréhension du site
 
+---
+
+# A toute fin utile
+
+* Il y a suffisamment de données pour que vous n'ayez pas les mêmes.
+* Il y a suffisamment de façon de faire un tunnel de commande et un panier pour que vous n'ayez pas les mêmes.
+* Github ... comparaison de fichier... facile de voir qui a copié qui
+* Vous êtes deux, vous pouvez vous répartir les tâches, nous serons exigeant comme pour la SAE303 !
+
