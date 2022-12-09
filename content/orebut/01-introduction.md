@@ -143,9 +143,13 @@ A priori pas de contraintes particulières, il convient de définir les périmè
 # Portage URCA Intranet
 
 * Pas de point bloquant pour un déploiement de tout ou partie (on peut activer et désactiver la presque totalité des fonctionnalités).
-  * Manque la gestion des MCC, mais sera intégré d'ici la rentrée de 2023 et la production des documents pour la DEVU 
+  * Manque la gestion des MCC, mais sera intégré d'ici à la rentrée de 2023 et la production des documents pour la DEVU
 * Le point central, c'est le prévisionnel et la maquette. 
+
+---
+
+# Portage URCA Intranet
+
 * La problématique, c'est le serveur, actuellement, un dans chaque IUT. Si ca doit se déployer plus largement, il faut une gestion centralisée du/des serveurs, sa maintenance 
-  * Mais je dois conserver un accès SSH pour le déploiement des mises à jour. L’intranet est en évolution permanente, des mises à jours sont
-  quasiment quotidiennes souvent esthétiques, mineures, d’améliorations d’ergonomie, et grosso-modo à chaque vacance des évolutions majeures.
+  * Mais je dois conserver un accès SSH pour le déploiement des mises à jour. L’intranet est en évolution permanente, des mises à jour sont quasiment quotidiennes souvent esthétiques, mineures, d’améliorations d’ergonomie, et grosso modo à chaque vacance des évolutions majeures.
 

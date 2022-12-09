@@ -131,6 +131,6 @@ https://github.com/dannebicque/intranetV3 && https://documentation.iutranet.fr (
 * plus de 170 000 lignes de code (hors framework)
 * 770 heures depuis septembre 2021
 * Version 3
-  * version 1 sous codeignitier (uniquement MMI, 2013-2017)
+  * version 1 sous CodeIgniter (uniquement MMI, 2013-2017)
   * version 2 sous SF 2->4 (tout l'IUT, février 2018 jusqu'en 2020)
   * version 3 depuis la rentrée 2020 (IUT Troyes), 2021 (IUT RCC)
