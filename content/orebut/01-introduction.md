@@ -94,9 +94,9 @@ L’ensemble des éléments sont exportables :
 
 # Limitations
 
-Cet outil n’est pas « coopératif » dans le sens ou il n’est pas possible de travailler simultanément sur la même fiche (petite précaution à prendre pour définir qui édite). Plusieurs niveaux de droits existent avec un accès total à toutes les formations,
+Cet outil n’est pas « coopératif » dans le sens ou il n’est pas possible de travailler simultanément sur la même fiche (petite précaution à prendre pour définir qui édite). 
 
-un accès en lecture sur toutes les formations, en lecture sur une formation et éditable sur une formation. Sur l’édition plusieurs niveaux existent avec un accès complet sur une formation (création, suppression), et simple édition.
+Plusieurs niveaux de droits existent avec un accès total à toutes les formations, un accès en lecture sur toutes les formations, en lecture sur une formation et éditable sur une formation. Sur l’édition plusieurs niveaux existent avec un accès complet sur une formation (création, suppression), et simple édition.
 
 ---
 
