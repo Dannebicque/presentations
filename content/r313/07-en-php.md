@@ -101,8 +101,8 @@ Les types possibles sont les types définis par le langage :
 
 Il est possible de définir des types plus spécifiques :
 
-* class-name = Un objet de la classe _class-name_, que vous avez écrite ou que vous utilisez depuis PHP ou une dépendance
-* interface-name = Un objet implémentant l'interface _interface-name_, que vous avez écrite ou que vous utilisez depuis PHP ou une dépendance
+* _nomClasse_ = Un objet de la classe _nomClasse_, que vous avez écrite ou que vous utilisez depuis PHP ou une dépendance
+* _nomInterface_ = Un objet implémentant l'interface _nomInterface_, que vous avez écrite ou que vous utilisez depuis PHP ou une dépendance
 
 ---
 
@@ -156,12 +156,6 @@ class Voiture
 
 ---
 
-# Le constructeur
-
-//schéma...
-
----
-
 # Opérateur référent de l'objet (->)
 
 ```php [1-19|16]
@@ -182,7 +176,7 @@ class Voiture
 $maVoiture = new Voiture();
 $maVoiture->marque = 'Renault';
 
-echo 'Marqu de ma voiture : ' . $maVoitureMarque;
+echo 'Marque de ma voiture : ' . $maVoiture->Marque;
 ?>
 ```
 
@@ -195,3 +189,6 @@ echo 'Marqu de ma voiture : ' . $maVoitureMarque;
   * Si vous avez beaucoup de classe ou que vous souhaitez automatiser l'inclusion de vos classes, vous pourriez utiliser le [mécanisme d'autoload de PHP](https://www.php.net/manual/fr/language.oop5.autoload.php) 
 * Respecter les conventions de nommage : le nom d’une classe commence par une majuscule, une propriété est toujours en minuscules
 
+---
+
+# Des questions ?

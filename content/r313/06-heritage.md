@@ -10,7 +10,8 @@
 
 ---
 
-Illustration
+<img src="ressources/r313/jhi4_ei3k_210111.jpg" width="400px" style="border:0px;"/><br>
+<a href="https://fr.freepik.com/vecteurs-libre/diagramme-montrant-arbre-genealogique-trois-generations_16267270.htm#query=arbre%20genealogique&position=0&from_view=keyword&track=ais">Image de brgfx</a> sur Freepik
 
 ---
 
@@ -24,9 +25,29 @@ Illustration
 
 ---
 
-# Question N°xx : Héritage
+# Question N°7 : Héritage
 
-Rédiger un exemple
+````php [1-9|11-15]
+class Animal {
+  public $name;
+  public function __construct($name) {
+    $this->name = $name;
+  }
+  public function eat() {
+    echo $this->name . " is eating.";
+  }
+}
+
+class Dog extends Animal {
+  public function bark() {
+    echo $this->name . " is barking.";
+  }
+}
+
+$dog = new Dog("Fido");
+$dog->eat(); // Output: Fido is eating.
+$dog->bark(); // Output: Fido is barking.
+``
 
 ---
 
@@ -44,7 +65,11 @@ Rédiger un exemple
 
 # Pour résumer ...
 
-Rédiger...
+* L’héritage est un mécanisme qui permet de définir une classe à partir d’une autre classe existante
+* La classe existante est appelée la **classe parent**
+* La nouvelle classe est appelée la **classe enfant**
+* La classe enfant hérite de **toutes les propriétés et méthodes** de la classe parent (sauf si elles sont privées)
+* La classe enfant peut surcharger les méthodes de la classe parent
 
 ---
 
@@ -59,5 +84,3 @@ Rédiger...
 ---
 
 <iframe src="https://giphy.com/embed/14uzPzKMOuVIPu" width="480" height="477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/14uzPzKMOuVIPu">via GIPHY</a></p>
-
-

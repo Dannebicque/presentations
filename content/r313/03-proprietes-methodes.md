@@ -63,23 +63,22 @@ protected function sauter() {...}
 
 ---
 
-# Question N°1 : Quelles seraient les propriétés dans un carnet d'adresse ?
+# Question N°1 : Quelles seraient les propriétés dans un livre ?
 
-- Nom <!-- .element: class="fragment" data-fragment-index="1" -->
-- Prénom <!-- .element: class="fragment" data-fragment-index="2" -->
+- Titre <!-- .element: class="fragment" data-fragment-index="1" -->
+- Auteur <!-- .element: class="fragment" data-fragment-index="2" -->
 - ... <!-- .element: class="fragment" data-fragment-index="3" -->
-- Téléphone <!-- .element: class="fragment" data-fragment-index="4" -->
+- Nombre de pages <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
-# Question N°2 : Quelles seraient les méthodes dans un carnet d'adresse ?
+# Question N°2 : Quelles seraient les méthodes dans un livre ?
 
-- Ajouter() <!-- .element: class="fragment" data-fragment-index="1" -->
-- Modifier() <!-- .element: class="fragment" data-fragment-index="2" -->
-- Supprimer() <!-- .element: class="fragment" data-fragment-index="3" -->
-- Appeler() <!-- .element: class="fragment" data-fragment-index="4" -->
-- Lister() <!-- .element: class="fragment" data-fragment-index="5" -->
-- ... <!-- .element: class="fragment" data-fragment-index="6" -->
+- Annoter() <!-- .element: class="fragment" data-fragment-index="1" -->
+- MarquerCommeLu() <!-- .element: class="fragment" data-fragment-index="2" -->
+- Preter() <!-- .element: class="fragment" data-fragment-index="3" -->
+- Lire() <!-- .element: class="fragment" data-fragment-index="4" -->
+- ... <!-- .element: class="fragment" data-fragment-index="5" -->
 
 ---
 

@@ -1,19 +1,20 @@
 # Organisation de la ressource
 
-* 2 CM
-* xx TD
-* 6 TP
+* Pour la FI
+  * 3 CM
+  * 4 TD
+  * 6 TP
+* Pour la FC
+  * 13 TD
 
 ---
 
 # Intervenants
 
-* David Annebicque (AB)
-  * David Annebicque (A)
-  * Fabrice Meuzeret (B)
-* Amine Haraoubia (EF)
-  * Patrice Gommery (E)
-  * Amine Haraoubia (F)
+* Fabrice Meuzeret (AB)
+* Patrice Gommery (CD)
+* David Annebicque (EF)
+
 
 ---
 
@@ -44,8 +45,8 @@ Les derniers TP seront consacrés l'utilisation dans Symfony et en lien avec WR3
 
 ---
 
-# Evaluation de la ressource WR313a / WR313e
+# Evaluation de la ressource WR313D / WRA313D
 
-* 1 TP Noté (uniquement concepts de la POO)
-* 1 évaluation écrite, commune avec WR319 (décembre)
+* TP Noté
+* Evaluation écrite
 

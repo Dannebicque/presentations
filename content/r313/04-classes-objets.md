@@ -30,12 +30,6 @@
 
 ---
 
-# Question N°5 : Classe ou objet ?
-
-<img src="ressources/r313/classe3.png" width="600px" style="border:0px;"/>
-
----
-
 # Pour résumer
 
 * Une classe : est une définition composée ensemble de propriété et de méthodes
