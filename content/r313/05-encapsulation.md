@@ -87,12 +87,14 @@ class Personne {
   
   public function setAge($age) {
    if (is_int($age)) { //on peut faire un test
-     $this->age = $age;
+      $this->age = $age;
+   } else {
+      echo 'indiquer un nombre';
    }
-   echo 'indiquer un nombre';
   }
 }
 ```
+
 * son utilsation (un objet est instancié)
 
 ```php
