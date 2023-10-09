@@ -114,7 +114,7 @@ Exemple :
 
 ```php
 class MaClasse {
-    public static $attribut = 0;
+    public static int $attribut = 0;
     public static function methode() {
         echo "Je suis une méthode statique";
     }
@@ -149,10 +149,10 @@ Exemple :
 ```php
 class MaClasse {
     private int $attribut = 0;
-    public function getAttribut() {
+    public function getAttribut(): int {
         return $this->attribut;
     }
-    public function setAttribut(int $valeur) {
+    public function setAttribut(int $valeur): void {
         $this->attribut = $valeur;
     }
 }
@@ -219,12 +219,12 @@ Exemple :
 class MaClasseMere {
     protected string $nom = 'Texte';
     
-    public function methode() {
+    public function methode(): void {
         echo "Je suis une méthode de la classe mère";
     }
 }
 class MaClasseFille extends MaClasseMere {
-    public function methodeFille() {
+    public function methodeFille(): void {
         echo "Je suis une méthode de la classe fille";
         echo $this->nom; //je peux accéder aux propriétés de la classe mère
     }
@@ -240,12 +240,12 @@ class MaClasseFille extends MaClasseMere {
 ```php
 class MaClasseMere {
     
-    public function methode() {
+    public function methode(): void {
         echo "Je suis une méthode de la classe mère";
     }
 }
 class MaClasseFille extends MaClasseMere {
-    public function methode() {
+    public function methode(): void {
         echo "Je suis une méthode de la classe fille qui remplace le comportement de la classe mère";
     }
 }
@@ -260,12 +260,12 @@ class MaClasseFille extends MaClasseMere {
 ```php
 class MaClasseMere {
     
-    public function methode() {
+    public function methode(): void {
         echo "Je suis une méthode de la classe mère";
     }
 }
 class MaClasseFille extends MaClasseMere {
-    public function methode() {
+    public function methode(): void {
         echo parent::methode()." Je suis une méthode de la classe fille qui complète le comportement de la classe mère";
     }
 }
@@ -369,8 +369,8 @@ class MaClasse {
 
 ```php
 interface Interface1 {
-    public function methode1();
-    public function methode2();
+    public function methode1(): void;
+    public function methode2(): void;
 }
 ```
 
@@ -382,10 +382,10 @@ interface Interface1 {
 
 ```php
 class MaClasse implements Interface1 {
-    public function methode1() {
+    public function methode1(): void {
         echo "Je suis la méthode 1";
     }
-    public function methode2() {
+    public function methode2(): void {
         echo "Je suis la méthode 2";
     }
 }
@@ -399,12 +399,12 @@ class MaClasse implements Interface1 {
 
 ```php
 interface Interface1 {
-    public function methode1();
-    public function methode2();
+    public function methode1(): void;
+    public function methode2(): void;
 }
 
 interface Interface2 extends Interface1 {
-    public function methode3();
+    public function methode3(): string;
 }
 ```
 
@@ -416,14 +416,14 @@ interface Interface2 extends Interface1 {
 
 ```php
 class MaClasse implements Interface2 {
-    public function methode1() {
+    public function methode1(): void {
         echo "Je suis la méthode 1";
     }
-    public function methode2() {
+    public function methode2(): void {
         echo "Je suis la méthode 2";
     }
-    public function methode3() {
-        echo "Je suis la méthode 3";
+    public function methode3(): string {
+        return "Je suis la méthode 3";
     }
 }
 ```
