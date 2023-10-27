@@ -1,7 +1,7 @@
 <h1 class="r-fit-text">WR104 - Culture numérique</h1>
 <h2  class="r-fit-text">Hackers, pirates et autres pionniers indispensables au Web</h2>
 
-@Dannebique
+@Dannebicque
 
 ---
 
