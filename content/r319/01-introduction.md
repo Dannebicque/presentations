@@ -1,25 +1,25 @@
-# Symfony (WR319a / WR319e)
+# Symfony (WR319D / WRA319D)
 
-David Annebicque
+David Annebicque // Patrice Gommery
 
 ---
 
 # Organisation de la ressource
 
-* 9 séances
+* 10 séances
 
 ---
 
 # Intervenants
 
 * David Annebicque (AB)
-* Amine Haraoubia (EF)
+* Patrice Gommery (CD)
 
 ---
 
-# Evaluation de la ressource WR319a /  WR319e
+# Evaluation de la ressource WR319D / WRA319D
 
-* 1 évaluation écrite en même temps que WR313a
+* 1 évaluation TP Noté de 1.5h
 * La SAE301
 
 ---
