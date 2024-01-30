@@ -1,19 +1,19 @@
-# Symfony (WR406D / WRA406D)
+# Développement Front - Vue.Js (WR406D / WRA406D)
 
-David Annebicque // Fabrice Gommery
+David Annebicque // Fabrice Meuzeret
 
 ---
 
 # Organisation de la ressource
 
-* 10 séances
+* xx séances
 
 ---
 
 # Intervenants
 
 * David Annebicque (AB)
-* Fabrice Gommery (CD)
+* Fabrice Meuzeret (CD)
 
 ---
 
