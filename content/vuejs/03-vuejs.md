@@ -72,4 +72,6 @@ Vous aurez besoin de :
 * Un terminal
 * npm
 * un IDE (VSCode, PHPStorm, ...)
-* 
+  * Avec les plugins Vue.js et Volar par exemple pour VSCode
+* Un navigateur web avec la console ouverte...
+  * Et le plugin Vue.js https://vuejs.org/guide/scaling-up/tooling.html#browser-devtools  
