@@ -6,20 +6,23 @@ David Annebicque // Fabrice Meuzeret
 
 # Organisation de la ressource
 
-* xx séances
+* 18 séances
+  * 3 CM
+  * 6 TD
+  * 9 TP
 
 ---
 
 # Intervenants
 
-* David Annebicque (AB)
+* David Annebicque (AB et EF)
 * Fabrice Meuzeret (CD)
 
 ---
 
 # Evaluation de la ressource WR406D / WRA406D
 
-* 1 évaluation TP Noté de 1.5h
+* 2 évaluations "TP Noté" de 1.5h
 * La SAE401
 
 ---

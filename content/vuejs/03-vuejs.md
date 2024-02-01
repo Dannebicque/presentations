@@ -62,3 +62,14 @@ Cet exemple illustre les deux principales fonctionnalités de Vue :
 * **Réactivité** : Vue traque automatiquement tout changement d'état JavaScript et met à jour efficacement le DOM en cas de changement.
 
 Source : https://fr.vuejs.org/guide/introduction.html
+
+---
+
+# Mise en pratique...
+
+Vous aurez besoin de :
+
+* Un terminal
+* npm
+* un IDE (VSCode, PHPStorm, ...)
+* 
