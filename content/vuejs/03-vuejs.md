@@ -65,13 +65,88 @@ Source : https://fr.vuejs.org/guide/introduction.html
 
 ---
 
+# Mise en garde ...
+
+Attention, VueJs 3 propose deux façons de structurer le code :
+
+* La version "historique" avec les options `data`, `methods`, `computed`, `watch`, `lifecycle hooks`, ... (dite **Option Api**)
+* La version "moderne" avec la **composition API**, qui permet de structurer le code de manière plus logique, et plus réutilisable.
+
+Plus d'infos ici : https://vuejs.org/guide/introduction.html#api-styles
+
+---
+
+# Mise en garde (version option API)
+
+```javascript
+<script>
+export default {
+  // Properties returned from data() become reactive state
+  // and will be exposed on `this`.
+  data() {
+    return {
+      count: 0
+    }
+  },
+
+  // Methods are functions that mutate state and trigger updates.
+  // They can be bound as event handlers in templates.
+  methods: {
+    increment() {
+      this.count++
+    }
+  },
+
+  // Lifecycle hooks are called at different stages
+  // of a component's lifecycle.
+  // This function will be called when the component is mounted.
+  mounted() {
+    console.log(`The initial count is ${this.count}.`)
+  }
+}
+</script>
+
+<template>
+  <button @click="increment">Count is: {{ count }}</button>
+</template>
+```
+
+---
+
+# Mise en garde (version composition API)
+
+```javascript
+<script setup>
+import { ref, onMounted } from 'vue'
+
+// reactive state
+const count = ref(0)
+
+// functions that mutate state and trigger updates
+function increment() {
+  count.value++
+}
+
+// lifecycle hooks
+onMounted(() => {
+  console.log(`The initial count is ${count.value}.`)
+})
+</script>
+
+<template>
+  <button @click="increment">Count is: {{ count }}</button>
+</template>
+```
+
+---
+
 # Mise en pratique...
 
 Vous aurez besoin de :
 
 * Un terminal
-* npm
+* npm (ou yarn)
 * un IDE (VSCode, PHPStorm, ...)
   * Avec les plugins Vue.js et Volar par exemple pour VSCode
-* Un navigateur web avec la console ouverte...
+* Un navigateur web **avec la console ouverte...**
   * Et le plugin Vue.js https://vuejs.org/guide/scaling-up/tooling.html#browser-devtools  
