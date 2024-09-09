@@ -31,6 +31,7 @@ La disposition des touches s'est faite selon deux critères :
 * la fréquence d'utilisation des lettres
 * la disposition des lettres pour éviter les blocages des touches
 </div>
+
 <div class="col2">
 <img style="border: 0" src="ressources/r104/Typebars.jpg" alt="Blocage des touches" width="100%">
 </div>
