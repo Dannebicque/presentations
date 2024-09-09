@@ -5,14 +5,6 @@
 
 ---
 
-# Organisation
-
-* Cours en trio avec Patrice Gommery (Histoire de l'Informatique) et Martial Martin (Cyberculture)
-* Evaluation écrite commune en janvier
-* 4 TD
-
----
-
 # Sommaire
 
 * Histoire de hacker
@@ -20,6 +12,64 @@
 * Célébrités
 * Dark-Web
 * Hackers et Culture
+
+---
+
+# Petite parenthèse... Le clavier Azerty
+
+A votre avis ? Pourquoi le clavier Azerty est-il organisé de cette manière ?
+
+---
+
+# Petite parenthèse... Le clavier Azerty
+
+Tout commence avec mes machines à écrire...
+<div class="col1">
+La disposition des touches s'est faite selon deux critères :
+
+* la bonne répartition des lettres entre les deux mains
+* la fréquence d'utilisation des lettres
+* la disposition des lettres pour éviter les blocages des touches
+</div>
+<div class="col2">
+<img style="border: 0" src="ressources/r104/Typebars.jpg" alt="Blocage des touches" width="100%">
+</div>
+
+---
+
+# Petite parenthèse... Le clavier Azerty
+
+Selon les pays et la langue la fréquence des lettres n'est pas la même. Et la position est ajustée en fonction de la langue.
+
+Ainsi les dispositions les plus classiques sont :
+
+* QWERTY : anglais
+* AZERTY : français (avec une variante belge, peu utilisée)
+* QWERTZ : allemand
+
+---
+
+# Petite parenthèse... Le clavier Azerty
+
+<img style="border: 0" src="ressources/r104/azerty_differents.png" alt="Blocage des touches" width="100%">
+
+---
+
+# Petite parenthèse... Le clavier Azerty
+
+<img style="border: 0" src="ressources/r104/azerty_macos.png" alt="Blocage des touches" width="100%">
+
+---
+
+# Petite parenthèse... Le clavier Azerty
+
+<img style="border: 0" src="ressources/r104/azerty_belge.png" alt="Blocage des touches" width="100%">
+
+---
+
+# Petite parenthèse... Le clavier Azerty
+
+<img style="border: 0" src="ressources/r104/bepo.png" alt="Blocage des touches" width="100%">
 
 ---
 
