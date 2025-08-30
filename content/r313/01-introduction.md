@@ -47,6 +47,6 @@ Les derniers TP seront consacrés l'utilisation dans Symfony et en lien avec WR3
 
 # Evaluation de la ressource WR313D / WRA313D
 
-* TP Noté
+* TPs Notés
 * Evaluation écrite
 
