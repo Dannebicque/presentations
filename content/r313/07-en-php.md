@@ -188,7 +188,3 @@ echo 'Marque de ma voiture : ' . $maVoiture->Marque;
 * Il faut donc créer deux fichiers PHP. Utiliser l’instruction `require('classe.php');` dans le fichier qui contient le code qui instancie.
   * Si vous avez beaucoup de classe ou que vous souhaitez automatiser l'inclusion de vos classes, vous pourriez utiliser le [mécanisme d'autoload de PHP](https://www.php.net/manual/fr/language.oop5.autoload.php) 
 * Respecter les conventions de nommage : le nom d’une classe commence par une majuscule, une propriété est toujours en minuscules
-
----
-
-# Des questions ?

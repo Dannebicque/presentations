@@ -34,7 +34,7 @@ Au fur et à mesure que les programmes écrits avec une approche **procédurale*
 
 ---
 
-<iframe src="https://giphy.com/embed/YR2MhvmPCDQMe5gy4P" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BigBrotherAU-big-brother-bbau-bbau2-YR2MhvmPCDQMe5gy4P">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/TgI82cyv2haUubdAzK" width="366" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MSUMoorhead-dragons-msum-minnesota-state-university-moorhead-TgI82cyv2haUubdAzK">via GIPHY</a></p>
 
 ---
 
