@@ -36,7 +36,8 @@ class Personne {
   ...
 }
 ```
-* son utilsation (un objet est instancié)
+
+* son utilisation (un objet est instancié)
 
 ```php
 $p = new Personne();
@@ -65,7 +66,8 @@ class Personne {
   ...
 }
 ```
-* son utilsation (un objet est instancié)
+
+* son utilisation (un objet est instancié)
 
 ```php
 $p = new Personne();
@@ -95,7 +97,7 @@ class Personne {
 }
 ```
 
-* son utilsation (un objet est instancié)
+* son utilisation (un objet est instancié)
 
 ```php
 $p = new Personne();
