@@ -15,16 +15,16 @@
 
 durée 1h15, pas de retard accepté / Pas de Symfony.
 
-* A : TP Noté 07/12, 14h00 
-* B : TP Noté 07/12, 14h00 
-* E : TP Noté 07/12, 8h00
-* F : TP Noté 06/12, 8h00
+* A : TP Noté 23/10  B : TP Noté 23/10
+* C : TP Noté 24/10 - D : TP Noté 24/10
+
+** Le code n'est pas évalué, mais un QCM sera proposé sur le TP noté en fin de séance **
 
 ---
 
 # Evaluation écrite
 
-le 15/12, QCM portant sur la POO et sur Symfony. Durée 1h00.
+le 07/11, QCM portant sur la POO. Durée 1h00.
 
 * A partir d’exemple de codes PHP
   * Interpréter le code
