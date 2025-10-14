@@ -68,7 +68,13 @@ https://github.com/dannebicque/intranetV3 && https://github.com/IUTTroyes/uniSer
 * Dépôt de documents, d'informations
 * Gestion des prévisionnels, des personnels du département
 * Gestion des groupes, des cohortes
-* Suivi qualité des formations (enquêtes)
+
+
+---
+
+# Fonctionnalités pour les "responsables"
+
+* Suivi qualité des formations (enquêtes qualité liées au référentiel)
 * Historisation des données sur toute la scolarité des étudiants
 * Gestion des plans de cours (démarche qualité)
 * Suivi des présents (dans le cadre de l'alternance édition des documents de preuve de présence) + lien avec EduSign (car pas de lien celcat-edusign)
@@ -82,25 +88,6 @@ https://github.com/dannebicque/intranetV3 && https://github.com/IUTTroyes/uniSer
 - Multilangue "ready" (partie étudiante en anglais)
 - export CSV, XLS et PDF sur toutes les pages
 - Et beaucoup d'autres : https://github.com/Dannebicque/intranetV3/blob/main/readme.md
-
----
-
-# En cours / Todo
-
-* Contrat Pédagogique étudiant (obligation des B.U.T.)
-* Accessibilité (déjà RGAA AA pour les étudiants)
-* Optimisation des performances (cache, optimisation des requêtes, ...)
-
----
-
-# Si on souhaite déployer...
-
-* A priori, c'est prêt.
-  * L'intranet gère toutes les formes de formations (B.U.T, DUT, Licence, Master, ...)
-* Reflexion sur les modalités d'hébergement
-  * centralisé ?
-  * décentralisé par UFR (comme actuellement ?)
-* Améliorer (revoir) la récupération des maquettes depuis Apogée
 
 ---
 
