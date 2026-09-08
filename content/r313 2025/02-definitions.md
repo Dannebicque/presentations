@@ -52,4 +52,4 @@ Au fur et à mesure que les programmes écrits avec une approche **procédurale*
 
 # Alors jouons au golf !
 
-<iframe src="https://giphy.com/embed/2GjgvS5vA6y08" width="480" height="245" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/quote-batman-joker-2GjgvS5vA6y08">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/F0HQQ0p3Mp8QM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/golf-ninja-pose-F0HQQ0p3Mp8QM">via GIPHY</a></p>

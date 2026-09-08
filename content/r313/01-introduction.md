@@ -1,26 +1,19 @@
 # Organisation de la ressource
 
-* Pour la FI
-  * 3 CM
-  * 4 TD
-  * 6 TP
-* Pour la FC
-  * 13 TD
+  * 21 séances entre WR319 et WR313
 
 ---
 
 # Intervenants
 
-* Fabrice Meuzeret (AB)
-* Patrice Gommery (CD)
-* David Annebicque (EF)
-
+* David Annebicque (AB)
+* Romain Delon (CD)
 
 ---
 
 # Support
 
-Le support est disponible ici : https://cours.davidannebicque.fr/programmation-orientee-objet-en-php/
+Le support est disponible ici : https://docs.mmi-troyes.fr/books/wr313-wr319-2026
 
 ---
 
@@ -31,22 +24,13 @@ Le support est disponible ici : https://cours.davidannebicque.fr/programmation-o
 
 ---
 
-# Préambule
-
-Ce module aborde les concepts théoriques de la POO et quelques exercices. Mais le lien sera directement fait avec Symfony, qui est un framework PHP orienté objet.
-
----
-
 # Déroulé des TD et TP
 
-Quelques TD et TP seront consacrés à des exercices pratiques, guidés sur les concepts de la POO.
-
-Les derniers TP seront consacrés l'utilisation dans Symfony et en lien avec WR319.
+La ressource se veut participative et active, les étudiants sont invités à participer aux TD et TP en posant des questions, en proposant des solutions et en partageant leurs expériences. L'évaluation n'est pas sur la qualité du code produit mais sur la capacité à comprendre et à appliquer les concepts de la POO et les expliquer
 
 ---
 
 # Evaluation de la ressource WR313D / WRA313D
 
-* TPs Notés
-* Evaluation écrite
+* Disponible ici : https://docs.mmi-troyes.fr/books/wr313-wr319-2026/page/contexte-de-la-ressource
 
