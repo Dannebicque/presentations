@@ -1,109 +1,142 @@
-# Symfony - Eco-système
+# Symfony - Écosystème
 
-Symfony nécessite tout un environnement pour fonctionner. Symfony implique aussi différents "langages" et utilise un vocabulaire spécifique (souvent repris dans d'autres frameworks).
+Symfony nécessite un écosystème d'outils et de conventions. J'utilise `---` comme séparateur de slides pour Reveal.js.
 
-#-#-#
+---
 
 ## Composer
 
-[_Composer_](https://getcomposer.org/) est un logiciel **gestionnaire de dépendances** libre écrit en PHP. Il permet à ses utilisateurs de déclarer et d'installer les bibliothèques dont le projet principal a besoin. Développé, depuis 2011, par Nils Adermann et Jordi Boggiano  (qui continuent encore aujourd'hui à le maintenir), il est aujourd'hui en version 2.
+[Composer](https://getcomposer.org/) est le gestionnaire de dépendances PHP. Il permet de déclarer et d'installer les bibliothèques nécessaires au projet (packages, bundles, packs).
 
-Le logiciel _Composer_ trouve son équivalent pour le front avec _npm_ ou _Yarn_
+- Exemple d'installation d'un projet skeleton :
 
-#-#-#
+```bash
+composer create-project symfony/skeleton mon_projet
+```
 
-## ENTITÉ (EQ. DU MODÈLE)
+Composer est l'équivalent back-end de `npm`/`yarn` pour le front.
 
-Une _entité_ est une classe PHP ! Elle peut faire le lien avec une base de données, on y déclare les différentes propriétés accessibles; Symfony utilise par défaut un outil de persistence de données : [_Doctrine_](https://www.doctrine-project.org/index.html) pour lier une entité à une table de base de données.
+---
 
-#-#-#
+## Entité (modèle)
 
-## ORM : OBJECT RELATIONNAL MAPPING
+Une entité est une classe PHP qui représente une table en base de données. Elle contient les propriétés (colonnes) et la logique métier minimale.
 
-Système permettant de se libérer des requêtes pour la base de données. Il se charge de générer les requêtes à effectuer sur les Entités spécifiées. Il existe plusieurs ORM, dans Symfony, il s'agit de [_Doctrine_](https://www.doctrine-project.org/index.html).
+Symfony utilise souvent [Doctrine](https://www.doctrine-project.org/) comme ORM pour faire le lien entre entités et tables.
 
-#-#-#
+---
+
+## ORM (Object‑Relational Mapping)
+
+Un ORM convertit les objets (entités) en requêtes SQL et inversement. Dans l'écosystème Symfony, Doctrine est l'ORM le plus courant.
+
+Commandes utiles :
+
+```bash
+composer require symfony/orm-pack
+php bin/console doctrine:database:create
+php bin/console make:entity
+php bin/console doctrine:migrations:diff
+php bin/console doctrine:migrations:migrate
+```
+
+---
 
 ## Repository
 
-Classe PHP qui fait le pont entre une entité et l'ORM, il permet notamment de structurer des requêtes complexes.
+Un `Repository` est une classe qui encapsule la logique de lecture (requêtes) pour une entité. On y place les méthodes complexes de récupération de données.
 
-#-#-#
+---
 
-## YAML
+## Configuration : YAML, XML, PHP, Attributes
 
-Format de structuration de données très utilisé dans Symfony, mais on peut utiliser du XML, du PHP ou encore les annotations (PHP 7) ou les attributs (php 8), les fichiers de configurations par défaut sont en YAML.
+Symfony supporte plusieurs formats de configuration : YAML, XML, PHP. Historiquement on utilisait des annotations (via des commentaires), aujourd'hui on préfère les *attributes* PHP (depuis PHP 8) pour mettre la configuration au plus près du code.
 
-#-#-#
+Exemple d'attribut pour une route (PHP 8+) :
 
-## Annotations
+```php
+use Symfony\Component\Routing\Annotation\Route;
 
-Commentaire PHP directement dans les classes utiles (controller, entité, ...) interprété par Symfony pour générer des fichiers de configuration ;
+#[Route('/bonjour', name: 'app_bonjour')]
+public function bonjour() { ... }
+```
 
-#-#-#
-
-## Attributes
-
-Les _Attributes_ sont la nouvelle version des annotations, intégrés nativement dans les versions 8 et supérieures de PHP. Les _Attributes_ sont une forme de données structurées, qui permet d'ajouter des métadonnées à nos déclarations de classes, propriétés, méthodes, fonctions, paramètres et constantes. Ils vont nous permettre de définir de la configuration au plus près du code, directement sur nos déclarations.
-
-#-#-#
+---
 
 ## Routes
 
-Les routes permettent de faire un lien entre une URL et un contrôleur. 
+Les routes lient une URL à un contrôleur. Elles peuvent être définies en YAML, PHP, ou via attributes/annotations.
 
-#-#-#
+---
 
 ## Bundles
 
-Sorte de modules Symfony qui peuvent contenir tout et n'importe quoi ; C'est la force de Symfony les modules peuvent fonctionner indépendamment et même sur d'autres structures PHP, autre framework etc.
+Les bundles sont des paquets réutilisables (modules) contenant du code, des services, des templates... Ils permettent de partager des fonctionnalités entre projets.
 
-#-#-#
+---
 
-## ENVIRONNEMENTS
+## Environnements
 
-Symfony propose par défaut 2 environnements : _dev_ et _prod_ qui permettent de donner des configs différentes en fonction de l'environnement de travail ; 
+Symfony distingue par défaut `dev` et `prod` (et permet d'en ajouter d'autres). Les variables d'environnement sont définies dans `.env` ou `.env.local`.
 
-* dev permet une utilisation sans cache avec des outils de dev comme le profiler ; 
-* prod lui permet d'utiliser le site avec le cache et sans aucun message d'erreurs. 
+Exemple :
 
-De plus on peut configurer les différents environnements pour par exemple rediriger tous les mails vers toto@titi.com en dev et laisser le fonctionnement normal pour prod ; pratique pour les debugs.
-
-#-#-#
-
-## ENVIRONNEMENTS
-
-Symfony propose également de définir autant d'environnement que nécessaire afin d'avoir différentes configurations. Le changement d'un environnement à un autre se faire en modifiant la ligne suivante dans le fichier ".env" (ou .env.local) :
-   ```dotenv
-   ###> symfony/framework-bundle ###
-   APP_ENV=dev
-   ```
-
-#-#-#
-
-## Profiler
-
-Le profiler est un outil puissant (et indispensable) pour débuger une application. Par défaut le profiler n'est pas installé. Pour l'ajouter il faut exécuter la commande suivante :
-```bash
-composer require profiler --dev
+```dotenv
+APP_ENV=dev
+APP_DEBUG=1
 ```
 
-Le profiler est toujours visible en bas de la page en mode développement.
+En `dev` : pas de cache, barre de debug. En `prod` : cache activé, erreurs masquées.
 
-#-#-#
+---
 
-## Maker
+## Profiler (outil de debug)
 
-Le maker est un outil puissant pour générer du code, et des éléments dans notre projet. Par défaut le maker n'est pas installé. Pour l'ajouter il faut exécuter la commande suivante :
+Le Web Profiler (toolbar) est installé via un pack de développement :
 
 ```bash
-composer require maker --dev
+composer require --dev symfony/profiler-pack
 ```
 
-Il est assez facile de modifier le maker pour que le code généré corresponde exactement à notre projet et nos attentes.
+Il fournit la barre de débogage et le profiler visible en bas des pages en `dev`.
 
-#-#-#
+---
 
-## Moteur de template
+## Maker (génération de code)
 
-Un moteur de template est un "langage", un "outil" permettant d'écrire les vues (partie visible) de manière efficace et rapide. Symfony utilise [_Twig_](https://twig.symfony.com/doc/3.x/) par défaut.
+Le MakerBundle facilite la génération d'entités, contrôleurs, formulaires, etc. :
+
+```bash
+composer require --dev symfony/maker-bundle
+php bin/console make:entity
+php bin/console make:controller
+php bin/console make:form
+```
+
+---
+
+## Packs utiles (exemples)
+
+- ORM : `composer require symfony/orm-pack`
+- Twig : `composer require symfony/twig-pack`
+- API Platform : `composer require api`
+- Web profiler : `composer require --dev symfony/profiler-pack`
+
+---
+
+## Moteur de templates
+
+Symfony utilise Twig par défaut. Il existe des packs pour intégrer Twig et les outils associés :
+
+```bash
+composer require symfony/twig-pack
+```
+
+---
+
+## Conseils pratiques pour les étudiants
+
+- Toujours commencer par `composer install` après avoir récupéré un projet.
+- Utiliser `symfony server:start` (ou `symfony serve`) pour le développement local.
+- Versionnez `composer.lock` mais ne commitez pas `.env` contenant des secrets.
+- Préférez les *attributes* PHP pour les nouvelles applications (lisibilité et autocomplétion).

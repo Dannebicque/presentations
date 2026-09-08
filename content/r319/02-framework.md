@@ -1,8 +1,9 @@
 # Définition générale
 
 En programmation informatique, un framework ou structure logicielle est un ensemble cohérent de composants logiciels structurels, qui sert à créer les fondations ainsi que les grandes lignes de tout ou d’une partie d’un logiciel (architecture). Un framework se distingue d’une simple bibliothèque logicielle principalement par :
-* son caractère générique, 
-* faiblement spécialisé, 
+
+* son caractère générique,
+* faiblement spécialisé,
 * contrairement à certaines bibliothèques ;
 
 #-#-#
