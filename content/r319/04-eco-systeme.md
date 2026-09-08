@@ -1,6 +1,6 @@
 # Symfony - Écosystème
 
-Symfony nécessite un écosystème d'outils et de conventions. J'utilise `---` comme séparateur de slides pour Reveal.js.
+Symfony nécessite un écosystème d'outils et de conventions.
 
 ---
 
